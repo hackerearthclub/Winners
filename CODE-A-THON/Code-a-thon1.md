@@ -1,4 +1,4 @@
-Congarts For Outsatnding Performance in CODE-A-THON1
+Congrats For Outstanding Performance in CODE-A-THON-1
 ===================
 
 #### RANK 1. Abhishek Singh Saini
