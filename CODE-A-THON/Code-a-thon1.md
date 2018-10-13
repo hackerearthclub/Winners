@@ -12,7 +12,7 @@ Congarts For Outsatnding Performance in CODE-A-THON1
 - [Bharati vidyapeeth's college of engineering,New delhi]
 
 #### RANK 3. Ishita Gambhir
-- [mewcifur28] (https://github.com/mewcifur28)
+- [mewcifur28](https://github.com/mewcifur28)
 - CSE E (2018-22)
 - [Bharati vidyapeeth's college of engineering,New delhi]
 
