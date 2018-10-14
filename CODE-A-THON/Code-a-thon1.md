@@ -21,7 +21,7 @@ Congrats For Outstanding Performance in CODE-A-THON-1
 - IT E(2017-21)
 - [Bharati vidyapeeth's college of engineering,New delhi]
 
-#### RANK 4. Sarthak gupta
+#### RANK 4. Sarthak Gupta
 - [sarthak-g](https://github.com/sarthak-g)
 - IT E(2017-21)
 - [Bharati vidyapeeth's college of engineering,New delhi]
