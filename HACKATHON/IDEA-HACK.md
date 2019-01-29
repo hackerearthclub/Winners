@@ -35,8 +35,8 @@ Congrats For Outstanding Performance in IDEA HACK
 
 #### TEAM MEMBER Jitender Kumar
 
--  
--       (2017-21)
+- [Jitender46559] (https://github.com/Jitender46559)
+- CSE (2016-20)
 - KCC Institute of Technology & Management
 
 ## 3rd Runner Up - Team Code Warriors
