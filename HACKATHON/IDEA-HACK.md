@@ -20,8 +20,8 @@ Congrats For Outstanding Performance in IDEA HACK
 
 #### TEAM MEMBER Mahesh Gupta
 -[mahi-official](https://github.com/mahi-official)
-- ICE(2015-19)
--Bharati vidyapeeth's college of engineering,New delhi
+- IT E(2015-19)
+- Bharati vidyapeeth's college of engineering,New delhi
 
 ## Ist Runner Up - Team Ethereum
 
