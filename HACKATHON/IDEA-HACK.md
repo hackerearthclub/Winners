@@ -14,7 +14,7 @@ Congrats For Outstanding Performance in IDEA HACK
 - Bharati vidyapeeth's college of engineering,New delhi
 
 #### TEAM MEMBER Chirag Gandhi
--[ chiraggandhi123](https://github.com/chiraggandhi123)
+- [chiraggandhi123](https://github.com/chiraggandhi123)
 - IT E(2017-21)
 - Bharati vidyapeeth's college of engineering,New delhi
 
