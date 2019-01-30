@@ -14,12 +14,12 @@ Congrats For Outstanding Performance in IDEA HACK
 - Bharati vidyapeeth's college of engineering,New delhi
 
 #### TEAM MEMBER Chirag Gandhi
--[chiraggandhi123](https://github.com/chiraggandhi123)
+-[ chiraggandhi123](https://github.com/chiraggandhi123)
 - IT E(2017-21)
 - Bharati vidyapeeth's college of engineering,New delhi
 
 #### TEAM MEMBER Mahesh Gupta
--[mahi-official](https://github.com/mahi-official)
+- [mahi-official](https://github.com/mahi-official)
 - IT E(2015-19)
 - Bharati vidyapeeth's college of engineering,New delhi
 
@@ -35,7 +35,7 @@ Congrats For Outstanding Performance in IDEA HACK
 
 #### TEAM MEMBER Jitender Kumar
 
-- [Jitender46559] (https://github.com/Jitender46559)
+- [Jitender46559](https://github.com/Jitender46559)
 - CSE (2016-20)
 - KCC Institute of Technology & Management
 
